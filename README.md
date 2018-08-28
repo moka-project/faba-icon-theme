@@ -1,7 +1,7 @@
 Faba Icon Theme
 ===============
 
-Faba is a sexy and modern FreeDesktop icon set with Tango and elementary influences. It is specifically designed to be a base icon set for the [Moka icon theme](https://github.com/snwh/moka-icon-theme.)
+Faba is a sexy and modern FreeDesktop icon set with Tango and elementary influences. It is specifically designed to be a base icon set for the [Moka icon theme](https://github.com/snwh/moka-icon-theme).
 
 ## Copying or Reusing
 
